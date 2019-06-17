@@ -1,6 +1,6 @@
+env/
 .env
 .ipynb_checkpoints
 
 data/*
-
 !data/alice.txt
